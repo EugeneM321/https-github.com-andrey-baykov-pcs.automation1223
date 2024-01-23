@@ -1,0 +1,15 @@
+1. try to use tuple, list, dict, set
+read more
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_tuples.asp
+https://www.w3schools.com/python/python_sets.asp
+https://w3schools.com/python/python_dictionaries.asp
+
+2. add function in your previous app
+read more:
+https://www.w3schools.com/python/python_functions.asp
+
+3. Prettify current scenarios
+4. Use WebDriverWait instead of sleep
+5. Add support to all fields for step:
+  Switch privacy for "Friends and relatives list" to "Only Me"

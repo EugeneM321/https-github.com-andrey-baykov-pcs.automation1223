@@ -1,0 +1,24 @@
+Task 1.
+Program:
+1. Ask user to input fruit name or type 'quit' for exit
+2. add fruit in array (list) and ask again until user type 'quit'
+3. if user trying to add fruit again, print 'Fruit already exist!' and ignore it.
+4. When User type quit print all list (each item in new row)
+
+# Hints
+# Create an empty list firs. ex. a = []
+# To add item in list use a.append(item) ex. item = input("Input fruit name: ")
+                                             a.append(item)
+# https://www.w3schools.com/python/python_lists.asp
+
+Task 2.
+1. Create file homework_6.feature
+2. Create new scenario
+3. Goto to lifetwig.com
+4. Login with your credentials
+5. Settings -> Privacy
+6. Read 'Friends and relatives list' value
+7. Change value to next in list (current value last in list -> set first one)
+8* extra: set values for all 4 items, but all values should be different.
+
+IMPORTANT! If you have any questions: ask it in our slack channel.
