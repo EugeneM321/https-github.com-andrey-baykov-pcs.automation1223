@@ -11,12 +11,9 @@ Feature: Login tests
     Then Revert switch "Off" of element "//button[@role='switch']"
     Then Wait 2 seconds
 
-  Scenario: Verify privacy
+  Scenario: Verify privacy 1
     Given Navigate to "prod" environment
     Then Login as "Admin"
-#    Then Type "pcs.class1223@gmail.com" into field "Email"
-#    Then Type "Qwertyui1@" into field "password"
-#    Then Click on "Login"
     Then Click on "Settings"
     Then Click on menu in settings "Privacy"
     Then Switch privacy for "Friends and relatives list" to "Only Me"
