@@ -9,7 +9,7 @@ Feature: Login tests
     Then Click on "//a[text()='Notifications']"
     Then Wait 2 seconds
     Then Revert switch "Off" of element "//button[@role='switch']"
-    Then Wait 2 seconds
+
 
   Scenario: Verify privacy 1
     Given Navigate to "prod" environment
