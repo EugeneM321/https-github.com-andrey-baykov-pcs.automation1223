@@ -35,7 +35,7 @@ Feature: Login tests
     Then Switch privacy for "Feed" to "Only Me"
     Then Wait 2 seconds
 
-    Scenario: Verify privacy Manager2.2
+    Scenario: Verify privacy1 Manager2.2
     Given Navigate to "prod" environment
     Then Login as "Manager"
     Then Click on "Settings"
@@ -44,5 +44,4 @@ Feature: Login tests
     Then Wait 2 seconds
 
 #    pcs.class1223+2@gmail.com     Qwertyui2@
-
 #    pcs.class1223+3@gmail.com     Qwertyui3@
