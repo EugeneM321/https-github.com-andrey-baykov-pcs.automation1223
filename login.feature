@@ -35,7 +35,7 @@ Feature: Login tests
     Then Switch privacy for "Feed" to "Only Me"
     Then Wait 2 seconds
 
-    Scenario: Verify privacy Manager2.1
+    Scenario: Verify privacy Manager2.2
     Given Navigate to "prod" environment
     Then Login as "Manager"
     Then Click on "Settings"
