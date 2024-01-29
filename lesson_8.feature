@@ -19,7 +19,7 @@ Feature: Lesson 8
     Then Wait 2 seconds
 
 
-  Scenario: Verify privacy Manager with table
+  Scenario: Verify privacy 1 Manager with table 1
     Then Login as "Manager"
     Then Click on "Settings"
     Then Click on menu in settings "Privacy"
