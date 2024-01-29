@@ -41,9 +41,9 @@ Feature: Lesson 8
     Examples:
       | email                     | password   | result |
       | pcs.class1223@gmail.com   | Qwertyui1@ | true   |
-#      | pcs.class1223+2@gmail.com | Qwertyui2@ | true   |
-#      | pcs.class1223+3@gmail.com | Qwertyui3@ | true   |
-#      | pcs.class1223+4@gmail.com | Qwertyui4@ | false  |
+      | pcs.class1223+2@gmail.com | Qwertyui2@ | true   |
+      | pcs.class1223+3@gmail.com | Qwertyui3@ | true   |
+      | pcs.class1223+4@gmail.com | Qwertyui4@ | false  |
 
 
   Scenario: Click google play
